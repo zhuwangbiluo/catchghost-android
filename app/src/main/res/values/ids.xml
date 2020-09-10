@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="guessWordTextView" type="id" />
+    <item name="userWordTextView" type="id" />
+    <item name="gameTip" type="id" />
+    <item name="role1Button" type="id" />
+    <item name="role2Button" type="id" />
+    <item name="role3Button" type="id" />
+    <item name="role4Button" type="id" />
+    <item name="role5Button" type="id" />
+    <item name="role6Button" type="id" />
+    <item name="role7Button" type="id" />
+    <item name="role8Button" type="id" />
+    <item name="role9Button" type="id" />
+    <item name="role10Button" type="id" />
+    <item name="role11Button" type="id" />
+    <item name="role12Button" type="id" />
+    <item name="role13Button" type="id" />
+    <item name="role14Button" type="id" />
+    <item name="role15Button" type="id" />
+</resources>

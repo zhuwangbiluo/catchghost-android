@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">捉👻</string>
+    <string name="txt_choose_count">人数🎄‍：</string>
+    <string name="txt_game_model">模式</string>
+    <string name="txt_fool_word">傻瓜🍉：</string>
+    <string name="txt_farmer_word">农民👨‍🌾‍‍：</string>
+    <string name="btn_start_game">开始捉👻</string>
+    <string name="btn_no_referee">无裁判👻</string>
+    <string name="btn_system_model">系统出题</string>
+    <string name="btn_shuffle">调换词语</string>
+    <string name="rad_multi_fool">多傻瓜🍉</string>
+    <string name="rad_multi_ghost">多鬼👻</string>
+</resources>

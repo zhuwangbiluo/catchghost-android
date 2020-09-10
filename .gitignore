@@ -1,0 +1,13 @@
+target/
+.idea/
+.settings/
+.m2/
+.mvn/
+*.tar.gz
+*.war
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+*.log
